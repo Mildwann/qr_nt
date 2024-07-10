@@ -67,6 +67,19 @@ packages:
     description: flutter
     source: sdk
     version: "0.0.0"
+  flutter_web_plugins:
+    dependency: transitive
+    description: flutter
+    source: sdk
+    version: "0.0.0"
+  js:
+    dependency: transitive
+    description:
+      name: js
+      sha256: c1b2e9b5ea78c45e1a0788d29606ba27dc5f71f019f32ca5140f61ef071838cf
+      url: "https://pub.dev"
+    source: hosted
+    version: "0.7.1"
   leak_tracker:
     dependency: transitive
     description:
@@ -131,6 +144,14 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "1.9.0"
+  qrcode_reader_web:
+    dependency: "direct main"
+    description:
+      name: qrcode_reader_web
+      sha256: "26af184edd8e5e6f52c71a4cf78e10d09373ecc4f706184bb8842864f0fa677f"
+      url: "https://pub.dev"
+    source: hosted
+    version: "1.1.2"
   sky_engine:
     dependency: transitive
     description: flutter
